@@ -10,7 +10,8 @@
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@vercel/ncc": "^0.38.4",
-    "openai": "^4.85.0"
+    "openai": "^4.85.0",
+    "zod": "^3.24.2"
   },
   "devDependencies": {
     "@github/local-action": "^6.0.2"
